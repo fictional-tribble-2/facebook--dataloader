@@ -5,7 +5,7 @@ fetching layer to provide a simplified and consistent API over various remote
 data sources such as databases or web services via batching and caching.
 
 [![Build Status](https://travis-ci.org/facebook/dataloader.svg)](https://travis-ci.org/facebook/dataloader)
-[![Coverage Status](https://coveralls.io/repos/facebook/dataloader/badge.svg?branch=master&service=github)](https://coveralls.io/github/facebook/dataloader?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/facebook--dataloader.svg)](https://www.staging.guardrails.io)
+[![Coverage Status](https://coveralls.io/repos/facebook/dataloader/badge.svg?branch=master&service=github)](https://coveralls.io/github/facebook/dataloader?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/facebook--dataloader.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/facebook--dataloader.svg)](https://www.guardrails.io)
 
 A port of the "Loader" API originally developed by [@schrockn][] at Facebook in
 2010 as a simplifying force to coalesce the sundry key-value store back-end
